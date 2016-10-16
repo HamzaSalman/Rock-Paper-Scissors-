@@ -1,0 +1,103 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {1024, 768}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : true,
+        "frame" : "{{207, 453}, {161, 58}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "rock_paper_scissors_touch_up_inside",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "Rock",
+          "uuid" : "A75BB6D5-D2DE-494A-B561-8FF2AF221241",
+          "class" : "Button",
+          "name" : "rock_button",
+          "font_size" : 30
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{438, 453}, {161, 58}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "rock_paper_scissors_touch_up_inside",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "Paper",
+          "uuid" : "A75BB6D5-D2DE-494A-B561-8FF2AF221241",
+          "class" : "Button",
+          "name" : "paper_button",
+          "font_size" : 30
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{672, 453}, {161, 58}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "rock_paper_scissors_touch_up_inside",
+          "frame" : "{{472, 368}, {80, 32}}",
+          "title" : "Scissors",
+          "uuid" : "A75BB6D5-D2DE-494A-B561-8FF2AF221241",
+          "class" : "Button",
+          "name" : "scissors_button",
+          "font_size" : 30
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{301, 172}, {427, 54}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_size" : 51,
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "4E22A534-1546-487A-8E80-795D2FA4427F",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "name" : "answer_label",
+          "font_name" : "<System>"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{227, 288}, {606, 54}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "name" : "computer_answer",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "4E22A534-1546-487A-8E80-795D2FA4427F",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "font_size" : 30,
+          "font_name" : "<System>"
+        }
+      }
+    ],
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    }
+  }
+]
